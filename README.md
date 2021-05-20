@@ -1,4 +1,4 @@
-### Hi there, Nice to meet you! 👋
+### Hi there. Nice to meet you! 👋
 
 My name is Truc. I'm a Software Engineer 😁
 
