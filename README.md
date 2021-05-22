@@ -6,7 +6,7 @@ You can visit my site here: https://profile-truc-phan.web.app/
 
 <hr>
 
-**I'm currently working as a Full-stack Software Engineer with these skills below:**
+**I'm currently working as a Software Engineer with these skills below:**
 
 Hard skills: .NET, .NET Core, Angular, AngularJs, Jquery, Javascript, Bootstrap
 
