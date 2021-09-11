@@ -14,7 +14,7 @@ Soft skills: English, searching, teamwork, self-learning, questioning, scrum
 
 <hr>
 
-<h2>🌟🌟🌟🌟 Note: I’m looking for new position now. </h2> 
+
 <!--
 **phananhtruc98/phananhtruc98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
